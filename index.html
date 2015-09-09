@@ -35,7 +35,7 @@ $( document ).ready(function() {
     $('#thetable tr').not(':first').not(':last').remove();
     var html = '';
     for(var i = 0; i < json.sites.length; i++)
-      html += '<tr><td>' + json.sites[i].url + '</td><td>' + json.sites[i].description + '</td><td>' + json.sites[i]['type'] + '</td><td>' + json.sites[i]['writeup_link'] + '</td></tr>';
+      html += '<tr><td>' + json.sites[i].url + '</td><td>' + json.sites[i].description + '</td><td>' + json.sites[i]['type'] + '</td><td><a href="' + json.sites[i]['writeup_link'] + '">link</a></td></tr>';
     $('#thetable tr').first().after(html);
   });
 });
