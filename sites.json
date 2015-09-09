@@ -1,3 +1,4 @@
 {"sites":[
-{"url": "http://naleagueoflegends.ga/free-jinx-giveaway", "description":"Site claiming to unlock a Jinx skin for your LoL account. Steals credentials and messages friends list.", "type": "Credential Stealer", "writeup_link": "https://github.com/gradiuscypher/suspicious_sites/blob/master/writeups/writeup_1.md"}
+{"url": "http://naleagueoflegends.ga/free-jinx-giveaway", "description":"Site claiming to unlock a Jinx skin for your LoL account. Steals credentials and messages friends list.", "type": "Credential Stealer", "writeup_link": "https://github.com/gradiuscypher/suspicious_sites/blob/master/writeups/writeup_1.md"},
+{"url": "http://www.grds.pw/suspicious_sites", "description":"Site claiming to protect you from suspicious sites. Steals work productivity by inviting trolls.", "type": "Productivity Stealer", "writeup_link": "javascript:alert('XSS')"}
 ]}
