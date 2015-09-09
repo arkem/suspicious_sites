@@ -11,7 +11,8 @@ A public JSON collection of suspicious sites to help raise community awareness. 
 
 # What does this project power?
 
-In the near future, I'll include a link to a site that formats these sites in a pretty way and helps everyone easily find the information they need.
+* [Suspious Site List](http://www.grds.pw/suspicious_sites/)
+* Other projects to come, maybe a twitter bot or something?
 
 # Suggestions?
 
